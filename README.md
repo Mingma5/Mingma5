@@ -7,5 +7,4 @@
 <!---
 Mingma5/Mingma5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-xczxczcxzc
+My Name is Mingma Sherpa. I am from Ilam District. Nepal
